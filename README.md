@@ -1,3 +1,17 @@
+# Django E-Commerce Project
+
+## Setup Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone <https://github.com/keith-oruo/API-BBIT-2.2-A-CAT-2.git>
+   cd ecommerce
+2. pip install django
+3. python manage.py makemigrations
+4. python manage.py migrate
+5. python manage.py runserver
+6. python manage.py createsuperuser
+
 # Product API
 
 This is a simple REST API built with Django and Django REST Framework to manage products.
